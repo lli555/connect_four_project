@@ -1,5 +1,5 @@
 # Connect Four AI Robot Arm Project
-[Documentation](https://sites.google.com/view/connectfour-ai-robot/home?authuser=1)  
+[Website](https://sites.google.com/view/connectfour-ai-robot/home?authuser=1)  
 The Connect4 Robot Arm project combines mechanical and software engineering to give the robot the ability to  analyze and play optimally against a human player.
 ## Mission of the Project
 The goal of this project is to gear towards the understanding of AI and robotics, 
